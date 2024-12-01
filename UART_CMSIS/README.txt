@@ -12,5 +12,5 @@ A USB на TTL UART converter is used to connect to the COM port.
 	GND							GND
 	
 //*********************************************************
-Конфигурирование портов ввода вывода и UART не используется библиотека HAL, 
-и происходит через прямое обращение к регистрам.
+Configuring the I/O ports and UART does not use the HAL library,
+and occurs through direct access to the registers.
