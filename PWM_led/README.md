@@ -1,4 +1,4 @@
-The project devonstrates how to use the stm32F103C8T6 and the built-in timer to generate a PMW signal thatcontrols a smooth change in LED brightess.
+The project devonstrates how to use the stm32F103C8T6 and the built-in timer to generate a PMW signal that controls a smooth change in LED brightess.
 
 Using timer2 ch1
 Scheme: R220 = 220 Om
